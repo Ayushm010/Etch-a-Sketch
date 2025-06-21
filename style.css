@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #04202f;
+}
+
+button {
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #0a4869;
+  padding: 7px 32px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: white;
+  box-shadow: transparent;
+  flex-shrink: 0;
+}
+
+
+
+.container {
+  box-sizing: content-box;
+  height: 630px;
+  width: 630px;
+  background-color: rgb(134, 10, 10);
+  border: 5px solid rgb(0, 0, 0);
+  display: flex;
+  flex-wrap: wrap;
+}
+
