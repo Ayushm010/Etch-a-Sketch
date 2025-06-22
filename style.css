@@ -25,7 +25,6 @@ button {
 }
 
 
-
 .container {
   box-sizing: content-box;
   height: 630px;
@@ -36,3 +35,6 @@ button {
   flex-wrap: wrap;
 }
 
+.card{
+  border: 1px solid black;
+}
