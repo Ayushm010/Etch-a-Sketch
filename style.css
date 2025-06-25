@@ -19,7 +19,7 @@ button {
   padding: 7px 32px;
   border-radius: 10px;
   font-size: 18px;
-  color: white;
+  color: rgb(162, 155, 155);
   box-shadow: transparent;
   flex-shrink: 0;
 }
@@ -29,7 +29,7 @@ button {
   box-sizing: content-box;
   height: 630px;
   width: 630px;
-  background-color: rgb(134, 10, 10);
+  background-color: #e26e6e;
   border: 5px solid rgb(0, 0, 0);
   display: flex;
   flex-wrap: wrap;
